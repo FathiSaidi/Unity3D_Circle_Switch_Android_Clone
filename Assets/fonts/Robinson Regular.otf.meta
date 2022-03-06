@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 03e933709c3212b4b91d4bb9ff7218f9
+timeCreated: 1645960617
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Robinson Regular
+  fontNames:
+  - Robinson Regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
