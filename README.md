@@ -17,5 +17,3 @@ Unity 3D 2017.1
 ## Preview :
 
 ![](preview1.PNG)
-
-## I hope it helps you in someway ;)
